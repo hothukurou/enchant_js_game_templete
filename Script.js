@@ -8,12 +8,7 @@ window.onload = function () {
 
 
 	//クリック音読み込み
-	const clickSndUrl = "click.wav";						//game.htmlからの相対パス
-	game.preload([clickSndUrl]); 				//データを読み込んでおく
-
-	//ぞう山くん画像
-	const zoyamaImgUrl = "zoyama.png";						//game.htmlからの相対パス
-	game.preload([zoyamaImgUrl]);					//データを読み込んでおく
+	const clickSndUr				//データを読み込んでおく
 
 	//リトライボタン
 	const retryImgUrl = "retry.png";						//game.htmlからの相対パス
